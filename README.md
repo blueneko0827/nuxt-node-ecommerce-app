@@ -2,7 +2,7 @@
 
 ## Overview
 
-An E-commerce website build in Nuxtjs3 (latest vrsion of vue framework) in which implemented user authentication, product and order management, multilanguage with i18n, and efficient state management with Store Pinia, and created reusable components. Follow the best practices and high development standards for a top-notch project.\
+An E-commerce website build in Nuxtjs3 in which implemented user authentication, product and order management, multilanguage with i18n, and efficient state management with Store Pinia, and created reusable components. Follow the best practices and high development standards for a top-notch project.\
 
 ## Library Used
 
