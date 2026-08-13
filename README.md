@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/synoft-global/NUXT-NODE-ECommerce-App.git
+git clone https://github.com/blueneko0827/nuxt-node-ecommerce-app.git
 ```
 
 2. Install dependencies:
